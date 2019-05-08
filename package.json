@@ -4,7 +4,8 @@
   "description": "learn cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/junlapong/learn-cypress/issues"
   },
-  "homepage": "https://github.com/junlapong/learn-cypress#readme"
+  "homepage": "https://github.com/junlapong/learn-cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
 }
