@@ -47,6 +47,12 @@ npm run cy:run -- --spec "cypress/integration/test/cypress_sample.spec.js"
 
 for setup video record key [see](https://docs.cypress.io/guides/core-concepts/dashboard-service.html#Setup)
 
+## Tools
+
+### Chrome Extensions
+ - [Cypress Scenario Recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb)
+
+
 ## References
 
 - https://docs.cypress.io
