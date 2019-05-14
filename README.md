@@ -43,6 +43,8 @@ npm run cy:open
 npm run cy:run -- --spec "cypress/integration/test/cypress_sample.spec.js"
 ```
 
+[![asciicast](https://asciinema.org/a/245184.svg)](https://asciinema.org/a/245184)
+
 for setup video record key [see](https://docs.cypress.io/guides/core-concepts/dashboard-service.html#Setup)
 
 ## References
